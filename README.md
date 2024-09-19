@@ -1,1 +1,1 @@
-This is a test repository for the LIT Clinic.
+This is a test repository for LIT Clinic. 
